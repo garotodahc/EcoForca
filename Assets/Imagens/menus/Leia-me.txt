@@ -1,0 +1,2 @@
+O fundo estará upado nesta pasta com o arquivo homônimo, mas penso em fazer uma versão mais trabalhada, sendo este arquivo um placeholder para desenvolverem os menus. 
+A tela de faze completa 1 é a que possui um texto com um PARABÉNS gigante, a tela de faze completa 2 é a com os botões normal. A transição entre uma e a outra é feita com o pressionar de qualquer tecla.

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FORCA.CSharp.Plugins", "FORCA.CSharp.Plugins.csproj", "{5CED318D-AFF7-84DC-5D90-3E1C8B4C10A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FORCA.CSharp", "FORCA.CSharp.csproj", "{0FBAC688-DDED-E0B7-B908-15A481615C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FORCA.CSharp.Editor", "FORCA.CSharp.Editor.csproj", "{A52D947A-77DC-35AD-75FF-270B84BFBF5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CED318D-AFF7-84DC-5D90-3E1C8B4C10A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CED318D-AFF7-84DC-5D90-3E1C8B4C10A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CED318D-AFF7-84DC-5D90-3E1C8B4C10A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CED318D-AFF7-84DC-5D90-3E1C8B4C10A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FBAC688-DDED-E0B7-B908-15A481615C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBAC688-DDED-E0B7-B908-15A481615C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBAC688-DDED-E0B7-B908-15A481615C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBAC688-DDED-E0B7-B908-15A481615C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A52D947A-77DC-35AD-75FF-270B84BFBF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52D947A-77DC-35AD-75FF-270B84BFBF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52D947A-77DC-35AD-75FF-270B84BFBF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52D947A-77DC-35AD-75FF-270B84BFBF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

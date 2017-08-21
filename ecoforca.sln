@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecoforca.CSharp.Plugins", "ecoforca.CSharp.Plugins.csproj", "{27689D36-2FC7-617B-70BE-C4DA75A229B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecoforca.CSharp", "ecoforca.CSharp.csproj", "{000072A3-CC7E-FB53-0EC9-DFFBD5A3C894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecoforca.CSharp.Editor", "ecoforca.CSharp.Editor.csproj", "{F4DF9ACD-28F7-331F-E34A-4C0D67D385BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27689D36-2FC7-617B-70BE-C4DA75A229B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27689D36-2FC7-617B-70BE-C4DA75A229B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27689D36-2FC7-617B-70BE-C4DA75A229B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27689D36-2FC7-617B-70BE-C4DA75A229B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000072A3-CC7E-FB53-0EC9-DFFBD5A3C894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000072A3-CC7E-FB53-0EC9-DFFBD5A3C894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000072A3-CC7E-FB53-0EC9-DFFBD5A3C894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000072A3-CC7E-FB53-0EC9-DFFBD5A3C894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4DF9ACD-28F7-331F-E34A-4C0D67D385BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DF9ACD-28F7-331F-E34A-4C0D67D385BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DF9ACD-28F7-331F-E34A-4C0D67D385BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DF9ACD-28F7-331F-E34A-4C0D67D385BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
